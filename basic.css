@@ -1,0 +1,115 @@
+#header h1{
+    text-align: center;
+    color: crimson;
+    text-transform: uppercase;
+    font-size: 100px;
+    
+    
+}
+body{
+   
+    background-color: navajowhite;
+   
+}
+hr{
+    border: 3px;
+    border-color: maroon;
+}
+#intro h2{
+    text-align: center;
+    text-decoration: underline;
+    color: cadetblue;
+    font-size: 100px;
+}
+.img{
+    
+    height: 400px;
+    width: 27%;
+    margin: 27px;
+    border: 12px solid;
+    border-color: brown;
+    
+    display:inline-grid;
+    
+}
+
+#navigation{
+ 
+    
+    background-color:black;
+   
+    padding: 10px;
+    margin-bottom: 0;
+}
+#dusra{
+    text-align: center;
+    color:darkblue;
+    text-decoration: underline;
+    background-color: bisque;
+}
+#con{
+    color: blue;
+    background-color: bisque;
+}
+#table{
+    font-family:cursive;
+    color: crimson;
+    align-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 600px;
+    width: 900px;
+}
+#navigation ul{
+    list-style-type: none;
+}
+#navigation li{
+    display: inline-block;
+    margin-right: 20px;
+    padding: 20px;
+    
+}
+#navigation a{
+    
+    text-transform: uppercase;
+    background-color:aquamarine;
+    padding: 10px;
+    border-radius: 4px;
+}
+#navigation a:hover{
+    color: darksalmon;
+}
+#navigation a:active{
+color: deeppink;
+}
+
+
+#content ul{
+    list-style-type: circle;
+    color: cornflowerblue;
+}
+#content li{
+   
+    padding: 20px;
+    margin: auto;
+    
+}
+#content a{
+     display: block;
+    text-align: center;
+    color:cornflowerblue;
+    font-family: sans-serif;
+    font-size: 60px;
+    margin: 20px auto;
+    border: 3px;
+    
+}
+#content a:hover{
+    color:green;
+    background-color: beige;
+    
+}
+#content a:visited{
+    color: orangered;
+    
+}
